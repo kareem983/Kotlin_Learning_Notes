@@ -37,7 +37,7 @@ This repository have kotlin basics topics for the learning phase. You can consid
 
 ## Resources
 - [Official Documentation](https://kotlinlang.org/docs/home.html)  
-- [W3 School Documentation](https://www.w3schools.com/kotlin/kotlin_syntax.php)  
-- [W3 Adda Documentation](https://www.w3adda.com/kotlin-tutorial/kotlin-overview)  
+- [W3School Documentation](https://www.w3schools.com/kotlin/kotlin_syntax.php)  
+- [W3Adda Documentation](https://www.w3adda.com/kotlin-tutorial/kotlin-overview)  
 - [Playlist in youtube](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) 
 
