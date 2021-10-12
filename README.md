@@ -1,6 +1,39 @@
 # Kotlin_Learning_Notes
 This repository have kotlin basics topics for the learning phase
 
-<h3>Topics</h3>
+##  Topics
 
-- [x] Agenda
+- Agenda
+- FirstApp
+- DataTypes
+- NullSafety
+- Inputs
+- ConvertDataTypes
+- Operations
+- FindMyAge
+- Logic Operation
+- LateInitProperty
+- SimpleIF
+- WhenCondition
+- SimpleLoop
+- WhileDoWhileLoop
+- Strings
+- Arrays
+- ArrayList
+- HashMap
+- Functions
+- Classes
+- Inheritance
+- Modifiers
+- Override
+- Casting
+- Interfaces
+- ClassesTypes
+- Threading
+- Coroutines
+- Android with kotlin
+
+
+### Resources
+
+
