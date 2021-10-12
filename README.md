@@ -1,5 +1,6 @@
 # Kotlin_Learning_Notes
-This repository have kotlin basics topics for the learning phase
+### About
+This repository have kotlin basics topics for the learning phase. You can consider this repositry as a reference to you for kotlin topics.
 
 ##  Topics
 
