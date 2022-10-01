@@ -5,7 +5,7 @@ This repository have kotlin basics topics for the learning phase. You can consid
 ##  Topics
 
 - Agenda
-- FirstApp
+- FirstApp 
 - DataTypes
 - NullSafety
 - Inputs
